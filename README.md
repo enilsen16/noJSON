@@ -1,6 +1,6 @@
 # Nojson
 
-TODO: Write a gem description
+A gem to by-pass jbuilder when creating a new rails app.
 
 ## Installation
 
