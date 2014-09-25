@@ -1,4 +1,4 @@
-Controller-Generator
+noJSON
 ================
 
 A replacement generator for scaffolding controllers.
