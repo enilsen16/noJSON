@@ -1,8 +1,31 @@
-Controller-Generator
-================
+# Nojson
 
-A replacement generator for scaffolding controllers.
+TODO: Write a gem description
 
-This is a normal ERB file that you can download and then save as new file `lib/templates/rails/scaffold_controller/controller.rb` (you may need to create the corresponding directories manually)
+## Installation
 
-###Comment out `gem 'jbuilder', '~> 1.2'` and rerun `bundle install`
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'nojson'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install nojson
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it ( https://github.com/[my-github-username]/nojson/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request

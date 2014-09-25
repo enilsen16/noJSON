@@ -1,5 +1,6 @@
 require "nojson/version"
+require "nojson/nojson"
 
 module Nojson
-  # Your code goes here...
+
 end
